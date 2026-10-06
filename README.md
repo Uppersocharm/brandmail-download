@@ -86,3 +86,14 @@ Third-party software/service, all rights belong to the original authors and trad
 <sub>Third-party software/service, all rights belong to the original authors. Unofficial listing for BrandMail.</sub>
 
 </div>
+
+
+## More links
+
+- 🌐 **[Visit BrandMail on SOFTGIT](https://softgit.pro/p/brandmail)** — the full listing.
+- 📄 **[BrandMail web page](https://uppersocharm.github.io/brandmail-download/)** — standalone info page.
+- 🗂️ [More Business software](https://softgit.pro/category/business)
+- 🏠 [SOFTGIT home](https://softgit.pro) · [All apps](https://softgit.pro/apps)
+- 🔒 [Verify a download (SHA-256)](https://softgit.pro/security)
+
+> Unofficial listing for BrandMail. Third-party software; all rights belong to the original authors.
